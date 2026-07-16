@@ -151,7 +151,7 @@ Read the full article on Medium:
 - 🎓 MIST Student
 - 🔬 Research & Malware Analysis
 
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Tarifzisan
 
 ---
 
